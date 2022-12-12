@@ -45,6 +45,10 @@ Start the App
 
 
 
+https://user-images.githubusercontent.com/94779899/206969046-4ac0d027-e4c5-40df-87f7-00a13a51e36c.mp4
+
+
+
 ## 🔗 Links
 
 If you liked the project you can follow me on social media
