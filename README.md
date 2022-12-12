@@ -25,7 +25,7 @@ Install the below libary
 Clone the project
 
 ```bash
-  gh repo clone biltudey/face-mask-detection
+  gh repo clone biltudey/pose-detection
 ```
 
 Go to Your  project directory
